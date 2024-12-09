@@ -1,0 +1,308 @@
+
+[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▓[0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m▓[0m[38;5;202m▄[0m
+[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▓[0m[38;5;202m▓[0m[38;5;202m▓[0m[38;5;202m▓[0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m▓[0m[38;5;202m█[0m[38;5;202m▓[0m[38;5;202m▄[0m
+[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m▓[0m[38;5;202m▒[0m
+[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▀[0m[38;5;202m▓[0m[38;5;202m▓[0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m▄[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▄[0m[38;5;202m▄[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▄[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▌[0m
+[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▄[0m[38;5;202m▌[0m[38;5;202m▌[0m[38;5;202m▓[0m[38;5;202m▓[0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m▄[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m [0m[38;5;202m▓[0m[38;5;202m█[0m[38;5;202m▀[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▄[0m[38;5;202m▌[0m[38;5;202m▀[0m[38;5;202m▄[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▓[0m[38;5;202m▓[0m[38;5;202m▌[0m[38;5;202m▄[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▓[0m[38;5;202m█[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▄[0m[38;5;202m▌[0m[38;5;202m▓[0m[38;5;202m▓[0m[38;5;202m▌[0m[38;5;202m▄[0m[38;5;202m [0m[38;5;202m▌[0m[38;5;202m▌[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▓[0m
+[38;5;208m [0m[38;5;208m [0m[38;5;208m [0m[38;5;208m [0m[38;5;208m [0m[38;5;208m [0m[38;5;208m [0m[38;5;208m▓[0m[38;5;208m█[0m[38;5;208m█[0m[38;5;208m█[0m[38;5;208m█[0m[38;5;208m█[0m[38;5;208m█[0m[38;5;208m█[0m[38;5;208m█[0m[38;5;208m█[0m[38;5;208m▌[0m[38;5;208m▓[0m[38;5;202m▓[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m▓[0m[38;5;202m█[0m[38;5;202m▄[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▓[0m[38;5;202m█[0m[38;5;202m▄[0m[38;5;202m▓[0m[38;5;202m▓[0m[38;5;202m [0m[38;5;202m▐[0m[38;5;202m█[0m[38;5;202m▌[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m [0m[38;5;202m▓[0m[38;5;202m█[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m█[0m[38;5;202m▌[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m█[0m[38;5;202m▌[0m[38;5;202m [0m[38;5;202m█[0m[38;5;202m▓[0m
+[38;5;214m [0m[38;5;214m [0m[38;5;214m [0m[38;5;214m [0m[38;5;214m [0m[38;5;214m [0m[38;5;214m▓[0m[38;5;214m▓[0m[38;5;214m▓[0m[38;5;214m▓[0m[38;5;214m▀[0m[38;5;214m▀[0m[38;5;214m▀[0m[38;5;214m▀[0m[38;5;214m▓[0m[38;5;214m▓[0m[38;5;214m▓[0m[38;5;214m▓[0m[38;5;214m▓[0m[38;5;214m▓[0m[38;5;214m▌[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m█[0m[38;5;202m█[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m█[0m[38;5;202m▓[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m▓[0m[38;5;202m▌[0m[38;5;202m▄[0m[38;5;202m▄[0m[38;5;202m [0m[38;5;202m▐[0m[38;5;202m█[0m[38;5;202m▓[0m[38;5;202m▄[0m[38;5;202m▓[0m[38;5;202m█[0m[38;5;202m▀[0m[38;5;202m [0m[38;5;202m█[0m[38;5;202m▓[0m[38;5;202m█[0m[38;5;202m [0m[38;5;202m▀[0m[38;5;202m█[0m[38;5;202m▄[0m[38;5;202m▄[0m[38;5;202m█[0m[38;5;202m▀[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m█[0m[38;5;202m▓[0m[38;5;202m█[0m
+[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m▓[0m[38;5;226m▌[0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;202m [0m[38;5;202m▐[0m[38;5;202m█[0m[38;5;202m▌[0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m [0m[38;5;202m█[0m[38;5;202m▌[0m
+[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m [0m[38;5;226m▓[0m
+
+version: 2-dev
+
+🐰 Keploy: 2024-12-09T12:50:35+05:30 	[33mWARN[0m	Delay is set to 5 seconds, incase your app takes more time to start use --delay to set custom delay
+🐰 Keploy: 2024-12-09T12:50:35+05:30 	[34mINFO[0m	Example usage: keploy test -c "/path/to/user/app" --delay 6
+🐰 Keploy: 2024-12-09T12:50:35+05:30 	[33mWARN[0m	javascript language detected. please use --language to manually set the language if needed
+🐰 Keploy: 2024-12-09T12:50:35+05:30 	[33mWARN[0m	coverage tool not found, skipping coverage caluclation. please install coverage tool using 'npm install -g nyc'
+🐰 Keploy: 2024-12-09T12:50:37+05:30 	[34mINFO[0m	keploy initialized and probes added to the kernel.
+🐰 Keploy: 2024-12-09T12:50:37+05:30 	[34mINFO[0m	Java detected and CA already exists	{"path": "/usr/lib/jvm/java-17-openjdk-amd64/lib/security/cacerts"}
+🐰 Keploy: 2024-12-09T12:50:37+05:30 	[34mINFO[0m	Java detected and CA already exists	{"path": "/usr/lib/jvm/java-17-openjdk-amd64/lib/security/cacerts"}
+🐰 Keploy: 2024-12-09T12:50:40+05:30 	[34mINFO[0m	starting UDP DNS server at addr :26789
+🐰 Keploy: 2024-12-09T12:50:40+05:30 	[34mINFO[0m	starting TCP DNS server at addr :26789
+🐰 Keploy: 2024-12-09T12:50:40+05:30 	[34mINFO[0m	Keploy has taken control of the DNS resolution mechanism, your application may misbehave if you have provided wrong domain name in your application code.
+🐰 Keploy: 2024-12-09T12:50:40+05:30 	[34mINFO[0m	Proxy started at port:16789
+🐰 Keploy: 2024-12-09T12:50:40+05:30 	[34mINFO[0m	config file not found, continuing execution...	{"test-set": "test-set-1"}
+🐰 Keploy: 2024-12-09T12:50:40+05:30 	[34mINFO[0m	running	{"test-set": "[test-set-1]"}
+Server is listening on port 3000
+🐰 Keploy: 2024-12-09T12:50:45+05:30 	[34mINFO[0m	starting test for of	{"test case": "[test-1]", "test set": "[test-set-1]"}
+Testrun failed for testcase with id: [31m[1m"[0m[31mtest-1[0m[31m[1m"[0m
+
+--------------------------------------------------------------------
+
++-------------------------------------------------------------------------------------------------------------+
+| [91m                                               DIFFS TEST-1                                                [0m |
++-------------------------------------------------------------------------------------------------------------+
+|                     EXPECT HEADER                    |                   ACTUAL HEADER                      |
+| -----------------------------------------------------+----------------------------------------------------- |
+|                                                      |                                                      |
+|                                                                                                             |
+|                      EXPECT BODY                     |                    ACTUAL BODY                       |
+| -----------------------------------------------------+----------------------------------------------------- |
+|                   Hello World Ayush                  |                    Hello World                       |
+|                                                      |                                                      |
+|                                                                                                             |
++-------------------------------------------------------------------------------------------------------------+
+🐰 Keploy: 2024-12-09T12:50:45+05:30 	[34mINFO[0m	result	{"testcase id": "[test-1]", "testset id": "[test-set-1]", "passed": "[false]"}
+🐰 Keploy: 2024-12-09T12:50:45+05:30 	[34mINFO[0m	starting test for of	{"test case": "[test-2]", "test set": "[test-set-1]"}
+Testrun failed for testcase with id: [31m[1m"[0m[31mtest-2[0m[31m[1m"[0m
+
+--------------------------------------------------------------------
+
++-------------------------------------------------------------------------------------------------------------+
+| [91m                                               DIFFS TEST-2                                                [0m |
++-------------------------------------------------------------------------------------------------------------+
+|                     EXPECT HEADER                    |                   ACTUAL HEADER                      |
+| -----------------------------------------------------+----------------------------------------------------- |
+|                Content-Length: [2714]                |              Content-Length: [2710]                  |
+|      Etag: [W/"a9a-LcMbADn9FClLdMcJjjOblj4wMLM"]     |    Etag: [W/"a96-+jtxTjn04ZupDn79sgO/4oR9v7U"]       |
+|                                                      |                                                      |
+|                                                                                                             |
+|                      EXPECT BODY                     |                    ACTUAL BODY                       |
+| -----------------------------------------------------+----------------------------------------------------- |
+|   {                                                  | {                                                    |
+|      "web-app": {                                    |    "web-app": {                                      |
+|          "taglib": [31m{ ... }[0m,[0m                          |        "taglib": [32m[[0m                                   |
+|   [0m       "servlet": [[0m                                | [32m  {[0m                                                  |
+|   [0m         [0]: {[0m                                    | [32m    "taglib-location": "/WEB-INF/tlds/cofax.tld",[0m    |
+|   [0m             "init-param": {[0m                       | [32m    "taglib-uri": "cofax.tld"[0m                        |
+|   [0m                 "cachePagesDirtyRead": 10,[0m        | [32m  }[0m                                                  |
+|   [0m                 "searchEngineFileTemplate": "forS[0m | [32m][0m,[0m                                                   |
+|   [0marchEngines.htm",[0m                                  | [0m       "servlet": [[0m                                  |
+|   [0m                 "redirectionClass": "org.cofax.Sq[0m | [0m         [0]: {[0m                                      |
+|   [0mRedirection",[0m                                      | [0m             "init-param": {[0m                         |
+|   [0m                 "dataStorePassword": "dataStoreTe[0m | [0m                 "cachePagesDirtyRead": 10,[0m          |
+|   [0mtQuery",[0m                                           | [0m                 "searchEngineFileTemplate": "forS[0m   |
+|   [0m                 "configGlossary:installationAt": [0m | [0marchEngines.htm",[0m                                    |
+|   [0mPhiladelphia, PA",[0m                                 | [0m                 "redirectionClass": "org.cofax.Sq[0m   |
+|   [0m                 "cachePackageTagsStore": 200,[0m     | [0mRedirection",[0m                                        |
+|   [0m                 "cacheTemplatesTrack": 100,[0m       | [0m                 "dataStorePassword": "dataStoreTe[0m   |
+|   [0m                 "dataStoreLogLevel": "debug",[0m     | [0mtQuery",[0m                                             |
+|   [0m                 "templateProcessorClass": "org.co[0m | [0m                 "configGlossary:installationAt": [0m   |
+|   [0max.WysiwygTemplate",[0m                               | [0mPhiladelphia, PA",[0m                                   |
+|   [0m                 "searchEngineListTemplate": "forS[0m | [0m                 "cachePackageTagsStore": 200,[0m       |
+|   [0marchEnginesList.htm",[0m                              | [0m                 "cacheTemplatesTrack": 100,[0m         |
+|   [0m                 "dataStoreMaxConns": 100,[0m         | [0m                 "dataStoreLogLevel": "debug",[0m       |
+|   [0m                 "searchEngineRobotsDb": "WEB-INF/[0m | [0m                 "templateProcessorClass": "org.co[0m   |
+|   [0mobots.db",[0m                                         | [0max.WysiwygTemplate",[0m                                 |
+|   [0m                 "dataStoreUser": "sa",[0m            | [0m                 "searchEngineListTemplate": "forS[0m   |
+|   [0m                 "dataStoreLogFile": "/usr/local/t[0m | [0marchEnginesList.htm",[0m                                |
+|   [0mmcat/logs/datastore.log",[0m                          | [0m                 "dataStoreMaxConns": 100,[0m           |
+|   [0m                 "maxUrlLength": 500,[0m              | [0m                 "searchEngineRobotsDb": "WEB-INF/[0m   |
+|   [0m                 "defaultListTemplate": "listTempl[0m | [0mobots.db",[0m                                           |
+|   [0mte.htm",[0m                                           | [0m                 "dataStoreUser": "sa",[0m              |
+|   [0m                 "jspListTemplate": "listTemplate.[0m | [0m                 "dataStoreLogFile": "/usr/local/t[0m   |
+|   [0msp",[0m                                               | [0mmcat/logs/datastore.log",[0m                            |
+|   [0m                 "jspFileTemplate": "articleTempla[0m | [0m                 "maxUrlLength": 500,[0m                |
+|   [0me.jsp",[0m                                            | [0m                 "defaultListTemplate": "listTempl[0m   |
+|   [0m                 "dataStoreName": "cofax",[0m         | [0mte.htm",[0m                                             |
+|   [0m                 "dataStoreTestQuery": "SET NOCOUN[0m | [0m                 "jspListTemplate": "listTemplate.[0m   |
+|   [0m ON;select test='test';",[0m                          | [0msp",[0m                                                 |
+|   [0m                 "configGlossary:staticPath": "/co[0m | [0m                 "jspFileTemplate": "articleTempla[0m   |
+|   [0mtent/static",[0m                                      | [0me.jsp",[0m                                              |
+|   [0m                 "cacheTemplatesRefresh": 15,[0m      | [0m                 "dataStoreName": "cofax",[0m           |
+|   [0m                 "useDataStore": true,[0m             | [0m                 "dataStoreTestQuery": "SET NOCOUN[0m   |
+|   [0m                 "configGlossary:poweredBy": "Cofa[0m | [0m ON;select test='test';",[0m                            |
+|   [0m",[0m                                                 | [0m                 "configGlossary:staticPath": "/co[0m   |
+|   [0m                 "cachePackageTagsTrack": 200,[0m     | [0mtent/static",[0m                                        |
+|   [0m                 "dataStoreConnUsageLimit": 100,[0m   | [0m                 "cacheTemplatesRefresh": 15,[0m        |
+|   [0m                 "cachePagesRefresh": 10,[0m          | [0m                 "useDataStore": true,[0m               |
+|   [0m                 "configGlossary:poweredByIcon": "[0m | [0m                 "configGlossary:poweredBy": "Cofa[0m   |
+|   [0mimages/cofax.gif",[0m                                 | [0m",[0m                                                   |
+|   [0m                 "templateOverridePath": "",[0m       | [0m                 "cachePackageTagsTrack": 200,[0m       |
+|   [0m                 "cacheTemplatesStore": 50,[0m        | [0m                 "dataStoreConnUsageLimit": 100,[0m     |
+|   [0m                 "cachePackageTagsRefresh": 60,[0m    | [0m                 "cachePagesRefresh": 10,[0m            |
+|   [0m                 "cachePagesTrack": 200,[0m           | [0m                 "configGlossary:poweredByIcon": "[0m   |
+|   [0m                 "dataStoreUrl": "jdbc:microsoft:s[0m | [0mimages/cofax.gif",[0m                                   |
+|   [0mlserver://LOCALHOST:1433;DatabaseName=goon",[0m       | [0m                 "templateOverridePath": "",[0m         |
+|   [0m                 "dataStoreInitConns": 10,[0m         | [0m                 "cacheTemplatesStore": 50,[0m          |
+|   [0m                 "configGlossary:adminEmail": "ksm[0m | [0m                 "cachePackageTagsRefresh": 60,[0m      |
+|   [0mpobox.com",[0m                                        | [0m                 "cachePagesTrack": 200,[0m             |
+|   [0m                 "defaultFileTemplate": "articleTe[0m | [0m                 "dataStoreUrl": "jdbc:microsoft:s[0m   |
+|   [0mplate.htm",[0m                                        | [0mlserver://LOCALHOST:1433;DatabaseName=goon",[0m         |
+|   [0m                 "useJSP": false,[0m                  | [0m                 "dataStoreInitConns": 10,[0m           |
+|   [0m                 "dataStoreClass": "org.cofax.SqlD[0m | [0m                 "configGlossary:adminEmail": "ksm[0m   |
+|   [0mtaStore",[0m                                          | [0mpobox.com",[0m                                          |
+|   [0m                 "dataStoreDriver": "com.microsoft[0m | [0m                 "defaultFileTemplate": "articleTe[0m   |
+|   [0mjdbc.sqlserver.SQLServerDriver",[0m                   | [0mplate.htm",[0m                                          |
+|   [0m                 "templateLoaderClass": "org.cofax[0m | [0m                 "useJSP": false,[0m                    |
+|   [0mFilesTemplateLoader",[0m                              | [0m[33m.[0m                                                    |
+|   [0m                 "templatePath": "templates",[0m      | [33m.[0m                                                    |
+|   [0m                 "cachePagesStore": 100,[0m           | [33m.[0m[0m                                                    |
+|   [0m               }[0m                                   | [0m                 "templatePath": "templates",[0m        |
+|   [0m             "servlet-name": "cofaxCDS",[0m           | [0m                 "cachePagesStore": 100,[0m             |
+|   [0m             "servlet-class": "org.cofax.cds.CDSSe[0m | [0m               }[0m                                     |
+|   [0mvlet",[0m                                             | [0m             "servlet-name": "cofaxCDS",[0m             |
+|   [0m           }[0m                                       | [0m             "servlet-class": "org.cofax.cds.CDSSe[0m   |
+|   [0m         [1]: {[0m                                    | [0mvlet",[0m                                               |
+|   [0m             "servlet-name": "cofaxEmail",[0m         | [0m           }[0m                                         |
+|   [0m             "servlet-class": "org.cofax.cds.Email[0m | [0m         [1]: {[0m                                      |
+|   [0mervlet",[0m                                           | [0m             "servlet-name": "cofaxEmail",[0m           |
+|   [0m             "init-param": {[0m                       | [0m             "servlet-class": "org.cofax.cds.Email[0m   |
+|   [0m                 "mailHost": "mail1",[0m              | [0mervlet",[0m                                             |
+|   [0m                 "mailHostOverride": "mail2",[0m      | [0m             "init-param": {[0m                         |
+|   [0m               }[0m                                   | [0m                 "mailHost": "mail1",[0m                |
+|   [0m           }[0m                                       | [0m                 "mailHostOverride": "mail2",[0m        |
+|   [0m         [2]: {[0m                                    | [0m               }[0m                                     |
+|   [0m             "servlet-name": "cofaxAdmin",[0m         | [0m           }[0m                                         |
+|   [0m             "servlet-class": "org.cofax.cds.Admin[0m | [0m         [2]: {[0m                                      |
+|   [0mervlet",[0m                                           | [0m             "servlet-name": "cofaxAdmin",[0m           |
+|   [0m           }[0m                                       | [0m             "servlet-class": "org.cofax.cds.Admin[0m   |
+|   [0m         [3]: {[0m                                    | [0mervlet",[0m                                             |
+|   [0m             "servlet-name": "fileServlet",[0m        | [0m           }[0m                                         |
+|   [0m             "servlet-class": "org.cofax.cds.FileS[0m | [0m         [3]: {[0m                                      |
+|   [0mrvlet",[0m                                            | [0m             "servlet-name": "fileServlet",[0m          |
+|   [0m           }[0m                                       | [0m             "servlet-class": "org.cofax.cds.FileS[0m   |
+|   [0m         [4]: {[0m                                    | [0mrvlet",[0m                                              |
+|   [0m             "servlet-name": "cofaxTools",[0m         | [0m           }[0m                                         |
+|   [0m             "servlet-class": "org.cofax.cms.Cofax[0m | [0m         [4]: {[0m                                      |
+|   [0moolsServlet",[0m                                      | [0m             "servlet-name": "cofaxTools",[0m           |
+|   [0m             "init-param": {[0m                       | [0m             "servlet-class": "org.cofax.cms.Cofax[0m   |
+|   [0m                 "removePageCache": "/content/admi[0m | [0moolsServlet",[0m                                        |
+|   [0m/remove?cache=pages\u0026id=",[0m                     | [0m             "init-param": {[0m                         |
+|   [0m                 "lookInContext": 1,[0m               | [0m                 "removePageCache": "/content/admi[0m   |
+|   [0m                 "adminGroupID": 4,[0m                | [0m/remove?cache=pages\u0026id=",[0m                       |
+|   [0m                 "templatePath": "toolstemplates/"[0m | [0m                 "lookInContext": 1,[0m                 |
+|   [0m[0m                                                   | [0m                 "adminGroupID": 4,[0m                  |
+|   [0m                 "logLocation": "/usr/local/tomcat[0m | [0m                 "templatePath": "toolstemplates/"[0m   |
+|   [0mlogs/CofaxTools.log",[0m                              | [0m[0m                                                     |
+|   [0m                 "dataLogLocation": "/usr/local/to[0m | [0m                 "logLocation": "/usr/local/tomcat[0m   |
+|   [0mcat/logs/dataLog.log",[0m                             | [0mlogs/CofaxTools.log",[0m                                |
+|   [0m                 "dataLogMaxSize": "",[0m             | [0m                 "dataLogLocation": "/usr/local/to[0m   |
+|   [0m                 "removeTemplateCache": "/content/[0m | [0mcat/logs/dataLog.log",[0m                               |
+|   [0mdmin/remove?cache=templates\u0026id=",[0m             | [0m                 "dataLogMaxSize": "",[0m               |
+|   [0m                 "fileTransferFolder": "/usr/local[0m | [0m                 "removeTemplateCache": "/content/[0m   |
+|   [0mtomcat/webapps/content/fileTransferFolder",[0m        | [0mdmin/remove?cache=templates\u0026id=",[0m               |
+|   [0m                 "betaServer": true,[0m               | [0m                 "fileTransferFolder": "/usr/local[0m   |
+|   [0m                 "log": 1,[0m                         | [0mtomcat/webapps/content/fileTransferFolder",[0m          |
+|   [0m                 "logMaxSize": "",[0m                 | [0m                 "betaServer": true,[0m                 |
+|   [0m                 "dataLog": 1,[0m                     | [0m                 "log": 1,[0m                           |
+|   [0m               }[0m                                   | [0m                 "logMaxSize": "",[0m                   |
+|   [0m           }[0m                                       | [0m                 "dataLog": 1,[0m                       |
+|   [0m[0m                                                   | [0m               }[0m                                     |
+|   [0m       ][0m                                           | [0m           }[0m                                         |
+|   [0m       "servlet-mapping": {[0m                        | [0m[0m                                                     |
+|   [0m           "fileServlet": "/static/*",[0m             | [0m       ][0m                                             |
+|   [0m           "cofaxTools": "/tools/*",[0m               | [0m       "servlet-mapping": {[0m                          |
+|   [0m           "cofaxCDS": "/",[0m                        | [0m           "fileServlet": "/static/*",[0m               |
+|   [0m           "cofaxEmail": [31m"/cofaxutil/aemail/*"[0m ,[0m   | [0m           "cofaxTools": "/tools/*",[0m                 |
+|   [0m           "cofaxAdmin": "/admin/*",[0m               | [0m           "cofaxCDS": "/",[0m                          |
+|   [0m         }[0m                                         | [0m           "cofaxEmail": [32m[[0m                           |
+|   [0m     }[0m                                             | [32m[0m [32m[0m [32m"/cofaxutil/aemail/*"[0m                              |
+|   [0m }[0m                                                 | [32m][0m ,[0m                                                  |
+|                                                      | [0m           "cofaxAdmin": "/admin/*",[0m                 |
+|                                                      | [0m         }[0m                                           |
+|                                                      | [0m     }[0m                                               |
+|                                                      | [0m[0m }[0m                                                   |
+|                                                      |                                                      |
+|                                                                                                             |
++-------------------------------------------------------------------------------------------------------------+
+🐰 Keploy: 2024-12-09T12:50:45+05:30 	[34mINFO[0m	result	{"testcase id": "[31m[test-2][0m", "testset id": "[31m[test-set-1][0m", "passed": "[31m[false][0m"}
+🐰 Keploy: 2024-12-09T12:50:45+05:30 	[34mINFO[0m	starting test for of	{"test case": "[38;5;208m[test-3][0;25;0m", "test set": "[38;5;208m[test-set-1][0;25;0m"}
+Testrun failed for testcase with id: [31m[1m"[0m[31mtest-3[0m[31m[1m"[0m
+
+--------------------------------------------------------------------
+
++-------------------------------------------------------------------------------------------------------------+
+| [91m                                               DIFFS TEST-3                                                [0m |
++-------------------------------------------------------------------------------------------------------------+
+|                     EXPECT HEADER                    |                   ACTUAL HEADER                      |
+| -----------------------------------------------------+----------------------------------------------------- |
+|                 Content-Length: [92m[353][0m [0m               |               Content-Length: [91m[351][0m [0m                 |
+|      [0mEtag: [92m[W/"161-SL0Jvk6Kva/U6YidgH8HDekQyJs"][0m [0m    |    [0mEtag: [91m[W/"15f-KAeijtMSGcq0nkF8HlhuRfBKxAE"][0m [0m      |
+|                                                      |                                                      |
+|                                                                                                             |
+|                      EXPECT BODY                     |                    ACTUAL BODY                       |
+| -----------------------------------------------------+----------------------------------------------------- |
+|   {                                                  | {                                                    |
+|      "quiz": {                                       |    "quiz": {                                         |
+|          "sport": {                                  |        "sport": {                                    |
+|              "q1": {                                 |            "q1": {                                   |
+|                  "question": "Which one is correct t |                "question": "Which one is correct t   |
+|   am name in NBA?",                                  | am name in NBA?",                                    |
+|                  "options": [                        |                "options": [                          |
+|                    [0]: New York Bulls               |                  [0]: New York Bulls                 |
+|                    [1]: Los Angeles Kings            |                  [1]: Los Angeles Kings              |
+|                    [2]: Golden State Warriros        |                  [2]: Golden State Warriros          |
+|                    [3]: Huston Rocket                |                  [3]: Huston Rocket                  |
+|                                                      |                                                      |
+|                  ]                                   |                ]                                     |
+|                  "answer": "Huston Rocket",          |                "answer": "Huston Rocket",            |
+|                }                                     |              }                                       |
+|            }                                         |          }                                           |
+|          "maths": {                                  |        "maths": {                                    |
+|              "q1": {                                 |            "q1": {                                   |
+|                  "question": "5 + 7 = ?",            |                "question": "5 + 7 = ?",              |
+|                  "options": [                        |                "options": [                          |
+|                    [0]: 10                           |                  [0]: 10                             |
+|                    [1]: 11                           |                  [1]: 11                             |
+|                    [2]: 12                           |                  [2]: 12                             |
+|                    [3]: 13                           |                  [3]: 13                             |
+|                                                      |                                                      |
+|                  ]                                   |                ]                                     |
+|                  "answer": "12",                     |                "answer": "12",                       |
+|                }                                     |              }                                       |
+|              "q2": {                                 |            "q2": {                                   |
+|                  "question": [31m"12[0m [31m-[0m [31m8[0m [31m=[0m [31m?"[0m ,[0m          |                "question": [32m[[0m                         |
+|   [0m               "options": [[0m                        | [32m[0m [32m[0m [32m"12[0m [32m-[0m [32m8[0m [32m=[0m [32m?"[0m                                       |
+|   [0m                 [0]: 1[0m                            | [32m][0m ,[0m                                                  |
+|   [0m                 [1]: 2[0m                            | [0m               "options": [[0m                          |
+|   [0m                 [2]: 3[0m                            | [0m                 [0]: 1[0m                              |
+|   [0m                 [3]: 4[0m                            | [0m                 [1]: 2[0m                              |
+|   [0m[0m                                                   | [0m                 [2]: 3[0m                              |
+|   [0m               ][0m                                   | [0m                 [3]: 4[0m                              |
+|   [0m               "answer": "4",[0m                      | [0m[0m                                                     |
+|   [0m             }[0m                                     | [0m               ][0m                                     |
+|   [0m         }[0m                                         | [0m               "answer": "4",[0m                        |
+|   [0m     }[0m                                             | [0m             }[0m                                       |
+|   [0m }[0m                                                 | [0m         }[0m                                           |
+|                                                      | [0m     }[0m                                               |
+|                                                      | [0m }[0m                                                   |
+|                                                      |                                                      |
+|                                                                                                             |
++-------------------------------------------------------------------------------------------------------------+
+🐰 Keploy: 2024-12-09T12:50:45+05:30 	[34mINFO[0m	result	{"testcase id": "[31m[test-3][0m", "testset id": "[31m[test-set-1][0m", "passed": "[31m[false][0m"}
+🐰 Keploy: 2024-12-09T12:50:45+05:30 	[34mINFO[0m	starting test for of	{"test case": "[38;5;208m[test-4][0;25;0m", "test set": "[38;5;208m[test-set-1][0;25;0m"}
+Testrun failed for testcase with id: [31m[1m"[0m[31mtest-4[0m[31m[1m"[0m
+
+--------------------------------------------------------------------
+
++-------------------------------------------------------------------------------------------------------------+
+| [91m                                               DIFFS TEST-4                                                [0m |
++-------------------------------------------------------------------------------------------------------------+
+|                     EXPECT HEADER                    |                   ACTUAL HEADER                      |
+| -----------------------------------------------------+----------------------------------------------------- |
+|                                                      |                                                      |
+|                                                                                                             |
+|                      EXPECT BODY                     |                    ACTUAL BODY                       |
+| -----------------------------------------------------+----------------------------------------------------- |
+|   Type of expected body: [91mslice[0m [0m                      | Type of actual body: [92mmap[0m [0m                            |
+|                                                      |                                                      |
+|                                                                                                             |
++-------------------------------------------------------------------------------------------------------------+
+🐰 Keploy: 2024-12-09T12:50:45+05:30 	[34mINFO[0m	result	{"testcase id": "[31m[test-4][0m", "testset id": "[31m[test-set-1][0m", "passed": "[31m[false][0m"}
+
+ <=========================================> 
+  TESTRUN SUMMARY. For test-set: [31m[1m"[0m[31mtest-set-1[0m[31m[1m"[0m
+	Total tests: [34m[1m4[0m
+	Total test passed: [34m[1m0[0m
+	Total test failed: [34m[1m4[0m
+	Time Taken: [31m[1m"[0m[31m5.27 s[0m[31m[1m"[0m
+ <=========================================> 
+
+
+ <=========================================> 
+  COMPLETE TESTRUN SUMMARY. 
+	Total tests: [34m[1m4[0m
+	Total test passed: [34m[1m0[0m
+	Total test failed: [34m[1m4[0m
+	Total time taken: [31m[1m"[0m[31m5.27 s[0m[31m[1m"[0m
+
+	Test Suite Name		Total Test	Passed		Failed		Time Taken	
+
+	[31m[1m"[0m[31mtest-set-1[0m[31m[1m"[0m		[34m[1m4[0m		[34m[1m0[0m		[34m[1m4[0m		[31m[1m"[0m[31m5.27 s[0m[31m[1m"[0m
+<=========================================> 
+
+🐰 Keploy: 2024-12-09T12:50:45+05:30 	[34mINFO[0m	stopping Keploy	{"reason": "replay completed successfully"}
+🐰 Keploy: 2024-12-09T12:50:45+05:30 	[34mINFO[0m	proxy stopped...
+🐰 Keploy: 2024-12-09T12:50:48+05:30 	[34mINFO[0m	eBPF resources released successfully...

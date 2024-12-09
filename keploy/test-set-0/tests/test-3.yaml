@@ -1,0 +1,42 @@
+version: api.keploy.io/v1beta1
+kind: Http
+name: test-3
+spec:
+    metadata: {}
+    req:
+        method: GET
+        proto_major: 1
+        proto_minor: 1
+        url: http://localhost:3000/longJson2
+        header:
+            Accept: '*/*'
+            Host: localhost:3000
+            User-Agent: curl/7.81.0
+        body: ""
+        timestamp: 2024-12-09T11:18:13.482596657+05:30
+    resp:
+        status_code: 200
+        header:
+            Connection: keep-alive
+            Content-Length: "351"
+            Content-Type: application/json; charset=utf-8
+            Date: Mon, 09 Dec 2024 05:48:13 GMT
+            Etag: W/"15f-KAeijtMSGcq0nkF8HlhuRfBKxAE"
+            Keep-Alive: timeout=5
+            X-Powered-By: Express
+        body: '{"quiz":{"sport":{"q1":{"question":"Which one is correct team name in NBA?","options":["New York Bulls","Los Angeles Kings","Golden State Warriros","Huston Rocket"],"answer":"Huston Rocket"}},"maths":{"q1":{"question":"5 + 7 = ?","options":["10","11","12","13"],"answer":"12"},"q2":{"question":"12 - 8 = ?","options":["1","2","3","4"],"answer":"4"}}}}'
+        status_message: OK
+        proto_major: 0
+        proto_minor: 0
+        timestamp: 2024-12-09T11:18:15.499569905+05:30
+    objects: []
+    assertions:
+        noise:
+            header.Date: []
+    created: 1733723295
+curl: |
+    curl --request GET \
+      --url http://localhost:3000/longJson2 \
+      --header 'User-Agent: curl/7.81.0' \
+      --header 'Accept: */*' \
+      --header 'Host: localhost:3000' \
